@@ -6,7 +6,7 @@ Ionic application which book places online(like airbnb), user can also offer the
 
 
 <h1>This is the login page:-</h1>
-<img src="Screen Shots/login.PNG" width="320"; height="550">
+<img src="login.PNG" width="320"; height="550">
 
 <h1>This is Slide Menu:-</h1>
 <img src="slide menu.PNG" width="320"; height="550">
